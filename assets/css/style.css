@@ -1,0 +1,45 @@
+
+
+.show {
+	position: left;
+	margin: 10px 5px;
+	border-radius: 4px;
+	background: black;
+	color: white;
+	border: 0;
+	font-family: 'Bitter', serif;
+	font-size: 24px;
+	float: left;
+}
+
+body {
+	background: url(../images/homer.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;;
+}
+
+.gif-display {
+	display: inline-grid;
+	margin: 10px;
+	color: white;
+	font-family: 'Bitter', serif;
+	text-align: center;
+}
+
+.form-group {
+	margin: 10px 5px;
+	border-radius: 4px;
+	background: white;
+	color: black;
+	border: 0;
+	font-family: 'Bitter', serif;
+	font-size: 24px;
+	text-align: center;
+}
+
+.gif-view {
+	background: black;
+	float: right;
+}
